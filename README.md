@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pro-jain
-- 👀 I’m interested in WebD, graphic desigining and 3d modelling
-- 🌱 I’m currently learning Backend
+- 👀 I’m curently interested in Robotics, AI/ML stuff and webD
 
 
 <!---
