@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pro-jain
-- 👀 I’m curently interested in Robotics, AI/ML stuff and webD
+- 👀 Interested in Robotics, AI/ML stuff and webD
 
 
 <!---
