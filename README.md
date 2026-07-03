@@ -68,11 +68,8 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 
 ### 📈 GitHub Stats
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pro-jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-jain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pro-jain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
- <img height="165" src="https://komarev.com/ghpvc/?username=pro-jain&icon=0&color=0)](https://visitcount.itsvg.in"/>
 </div>
 <div align="left">
   <img height="165" src="https://streak-stats.demolab.com?user=pro-jain&theme=tokyonight&hide_border=true" />
