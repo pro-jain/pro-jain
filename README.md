@@ -7,28 +7,12 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 ### 👩‍💻 About Me
 
 - 🎓 **Education:** Final-year B.Tech CSE (2027 batch) at **SVNIT Surat**, CGPA 8.57.
-- 🌐 **Leadership:** Program Coordinator for SVNIT within **GS-JTI/THRIVE**, a METI initiative run via Deloitte Tohmatsu and Tech Japan.
-- 🎯 **Currently:** Targeting SDE and agentic AI/ML roles — recently built for the Meesho ScriptedByHer 2026 hackathon ("Building Bharat with the Power of Agentic AI") and Amazon ML Summer School.
 - 🧠 **My Approach:** Comfortable moving between layers — multi-agent LLM orchestration, classical ML pipelines (ensembles, clustering), computer vision, and full-stack MERN development.
 - 🤖 **Also into:** Robotics — autonomous navigation, semantic-command robots, and drone vision systems.
 
 ---
 
-### 🚀 Featured Projects
 
-**[PodSense AI](#)** — Multi-agent system built on LLaMA 3.1, orchestrated with Kubernetes, using DoWhy for causal inference on user feedback signals.
-
-**[Autonomous-Store-Bot](https://github.com/pro-jain/Autonomous-Store-Bot)** — Autonomous store robot that maps indoor environments, identifies and stores object locations, and navigates to requested objects using semantic commands.
-
-**[ROS2 Navigation — Autonomous Mobile Robot](https://github.com/pro-jain/ROS2_Navigation-_Autonomous_Mobile_Robot)** — ROS2-based navigation stack connecting mapping, localization, path planning, and control, using LiDAR and odometry for obstacle avoidance.
-
-**[Kashvi Creations](#)** — Full-stack e-commerce platform (React/Vite + Node.js/Express/MongoDB) with Razorpay payments, OTP email verification, and Kafka-based event handling.
-
-**Flipkart Gridlock Hackathon 2.0** — Traffic demand prediction pipeline combining KFold target encoding, ExtraTrees/HistGradientBoosting/LightGBM DART base models, CatBoost with Optuna tuning, and an MLP meta-learner with isotonic regression — pushed baseline from 99.56% to competitive top-tier R².
-
-**ADDC Drone Project** — YOLO-based computer vision system for autonomous drone object detection; ranked nationally in ADDC.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -47,7 +31,6 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 ![XGBoost](https://img.shields.io/badge/XGBoost-0E76A8?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![Optuna](https://img.shields.io/badge/Optuna-4169E1?style=for-the-badge)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -62,9 +45,7 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 
 **Web Development:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -74,7 +55,6 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -100,10 +80,6 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 > 2. For a permanent fix, fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own free copy on Vercel (takes ~2 min), then swap `github-readme-stats.vercel.app` in the URLs above for your own deployment URL.
 
 ---
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 <!---
 pro-jain/pro-jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
