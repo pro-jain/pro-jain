@@ -1,12 +1,12 @@
 # Hi, I'm Bodhini Jain 👋
 
-**Program Coordinator @ GS-JTI/THRIVE (SVNIT) | Building Agentic AI Systems | Final-Year B.Tech CSE**
+**Final-Year B.Tech CSE**
 
 I build systems that combine multi-agent orchestration, classical ML, and full-stack engineering — from LLM-powered agentic pipelines to autonomous robotics. I like taking a problem apart, finding the right model or architecture for it, and shipping something that actually works end to end.
 
 ### 👩‍💻 About Me
 
-- 🎓 **Education:** Final-year B.Tech CSE (2027 batch) at **SVNIT Surat**, CGPA 8.57.
+- 🎓 **Education:** Final-year B.Tech CSE (2027 batch) at **SVNIT Surat**
 - 🧠 **My Approach:** Comfortable moving between layers — multi-agent LLM orchestration, classical ML pipelines (ensembles, clustering), computer vision, and full-stack MERN development.
 - 🤖 **Also into:** Robotics — autonomous navigation, semantic-command robots, and drone vision systems.
 
