@@ -71,7 +71,7 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=pro-jain&theme=tokyonight&hide_border=true" />
 
-<div align="right">
+<div align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pro-jain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 </div>
