@@ -67,17 +67,15 @@ I build systems that combine multi-agent orchestration, classical ML, and full-s
 ---
 
 ### 📈 GitHub Stats
-
 <div align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pro-jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-jain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
-
+<div align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=pro-jain&theme=tokyonight&hide_border=true" />
+</div>
 <br>
 
-> **Note:** The stat cards above call the public `github-readme-stats` Vercel instance, which is well known for intermittent downtime/rate-limiting (this is a widely-reported issue with the shared deployment, not your README). If they don't render:
-> 1. Give it a minute and hard-refresh — it's often temporary.
-> 2. For a permanent fix, fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own free copy on Vercel (takes ~2 min), then swap `github-readme-stats.vercel.app` in the URLs above for your own deployment URL.
 
 ---
 
