@@ -1,51 +1,109 @@
 # Hi, I'm Bodhini Jain 👋
 
-** Final-Year B.Tech CSE**
+**Program Coordinator @ GS-JTI/THRIVE (SVNIT) | Building Agentic AI Systems | Final-Year B.Tech CSE**
 
 I build systems that combine multi-agent orchestration, classical ML, and full-stack engineering — from LLM-powered agentic pipelines to autonomous robotics. I like taking a problem apart, finding the right model or architecture for it, and shipping something that actually works end to end.
 
 ### 👩‍💻 About Me
 
-- 🎓 **Education:** Final-year B.Tech CSE (2027 batch) at **NIT Surat**
+- 🎓 **Education:** Final-year B.Tech CSE (2027 batch) at **SVNIT Surat**, CGPA 8.57.
+- 🌐 **Leadership:** Program Coordinator for SVNIT within **GS-JTI/THRIVE**, a METI initiative run via Deloitte Tohmatsu and Tech Japan.
+- 🎯 **Currently:** Targeting SDE and agentic AI/ML roles — recently built for the Meesho ScriptedByHer 2026 hackathon ("Building Bharat with the Power of Agentic AI") and Amazon ML Summer School.
 - 🧠 **My Approach:** Comfortable moving between layers — multi-agent LLM orchestration, classical ML pipelines (ensembles, clustering), computer vision, and full-stack MERN development.
 - 🤖 **Also into:** Robotics — autonomous navigation, semantic-command robots, and drone vision systems.
 
 ---
+
+### 🚀 Featured Projects
+
+**[PodSense AI](#)** — Multi-agent system built on LLaMA 3.1, orchestrated with Kubernetes, using DoWhy for causal inference on user feedback signals.
+
+**[Autonomous-Store-Bot](https://github.com/pro-jain/Autonomous-Store-Bot)** — Autonomous store robot that maps indoor environments, identifies and stores object locations, and navigates to requested objects using semantic commands.
+
+**[ROS2 Navigation — Autonomous Mobile Robot](https://github.com/pro-jain/ROS2_Navigation-_Autonomous_Mobile_Robot)** — ROS2-based navigation stack connecting mapping, localization, path planning, and control, using LiDAR and odometry for obstacle avoidance.
+
+**[Kashvi Creations](#)** — Full-stack e-commerce platform (React/Vite + Node.js/Express/MongoDB) with Razorpay payments, OTP email verification, and Kafka-based event handling.
+
+**Flipkart Gridlock Hackathon 2.0** — Traffic demand prediction pipeline combining KFold target encoding, ExtraTrees/HistGradientBoosting/LightGBM DART base models, CatBoost with Optuna tuning, and an MLP meta-learner with isotonic regression — pushed baseline from 99.56% to competitive top-tier R².
+
+**ADDC Drone Project** — YOLO-based computer vision system for autonomous drone object detection; ranked nationally in ADDC.
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI / ML:**
+**AI / ML / Deep Learning:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0E76A8?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Optuna](https://img.shields.io/badge/Optuna-4169E1?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Web Development (MERN):**
+**Computer Vision & Robotics:**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-CC3333?style=for-the-badge)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-2C2C2C?style=for-the-badge)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-0097A7?style=for-the-badge)
+
+**Web Development:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Robotics:**
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Infra & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+**Core Areas:** Distributed Systems • Deep Learning • Machine Learning • Data Structures & Algorithms • Computer Networks • OOP • Autonomous Robotics • UAV Systems • Computer Vision
+
+**Robotics & UAV Stack:** ROS1/ROS2 • Gazebo • Nav2 • SLAM Toolbox • AMCL • RViz2 • ArduPilot • Pixhawk • MAVLink • LoRa Module • WebODM (Photogrammetry) • LiDAR
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pro-jain&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-jain&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pro-jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-jain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <br>
+
+> **Note:** The stat cards above call the public `github-readme-stats` Vercel instance, which is well known for intermittent downtime/rate-limiting (this is a widely-reported issue with the shared deployment, not your README). If they don't render:
+> 1. Give it a minute and hard-refresh — it's often temporary.
+> 2. For a permanent fix, fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own free copy on Vercel (takes ~2 min), then swap `github-readme-stats.vercel.app` in the URLs above for your own deployment URL.
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 <!---
 pro-jain/pro-jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
