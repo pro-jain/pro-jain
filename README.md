@@ -1,13 +1,13 @@
 # Hi, I'm Bodhini Jain 👋
 
 **Final-Year B.Tech CSE**
-I build systems that combine multi-agent orchestration, classical ML, and full-stack from LLM-powered agentic pipelines to autonomous robotics. 
+I build systems that combine multi-agent systems, classical ML, and full-stack from LLM-powered agentic pipelines to autonomous robotics. 
 
 ### 👩‍💻 About Me
 
-- 🎓 **Education:** Final-year B.Tech CSE (2027 batch) at **SVNIT Surat**
-- 🧠 **My Approach:** Comfortable moving between layers multi-agent LLM orchestration, classical ML pipelines (ensembles, clustering), computer vision, and full-stack MERN development.
-- 🤖 **Also into:** Robotics — autonomous navigation, semantic-command robots and drone vision systems.
+- 🎓 **Education:** Final-year B.Tech CSE (2027 batch) at **NIT Surat**
+- 🧠 **My Approach:** Comfortable moving between layers multi-agent LLM systems, classical ML pipelines (ensembles, clustering), computer vision, and full-stack MERN development.
+- 🤖 **Also into:** Robotics autonomous navigation, semantic-command robots and drone vision systems.
 
 ---
 
